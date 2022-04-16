@@ -90,6 +90,6 @@ Retorna a string convertida em uma lista contendo cada sub-string separadamente 
 
 * Para terminar de ler o código, aperte **CTRL + D**!
 
-* O automato NFA já é fornecido dentro do código por meio de um dicionário. Além disto
+* O automato NFA já é fornecido dentro do código por meio de um dicionário.
 
 * A função *isNondeter(state)* do arquivo *NFAtoDFA.py* considera apenas casos onde há ligações com ε (épsilon), já que é o único caso existente no automato NFA dado.
