@@ -1,0 +1,22 @@
+1. Tokens disponíveis para a linguagem A e suas respectivas ERs:
+	
+	- ID 				-> [a-z][a-zA-z0-9]* 			- ISEQ (==) 			-> == 				
+	- INT 			-> int					- NOTEQ (!=)			-> !=
+	- FLOAT			-> float					- LP (left parenthesis)		-> (
+	- IF				-> if						- RP (right parenthesis)	-> )
+	- ELSE			-> else					- RETURN 				-> return
+	- COMMA(,)			-> ,						- SEMI (;)				-> ;
+	- LB (left brace)		-> {						- NUM					-> [0-9]+
+	- RB (right brace)	-> }						- EQ (=)
+	- VOID			-> void					- MAIN				-> main
+	- ADD (+)									- FLOATNUM				-> [0-9]+.[0-9]+						
+ 	- SUB (-)
+	- DIV (/)
+	- MULT (*)
+
+
+
+
+
+
+		
