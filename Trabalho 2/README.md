@@ -10,6 +10,7 @@
 
 ### **Introdução**
 O trabalho é baseado **somente** na seguinte gramática: 
+
 ![gramática](prints/trab_grammar.png)
 
 <br> <br>
