@@ -29,7 +29,7 @@ O trabalho consiste em três questões. Cada questão está resolvida em um cód
 ### **Instruções e avisos**
 * Para os dois primeiros arquivos, basta executar. Cada um já tem funções prontas  e definidas e irá mostrar de acordo com o seu conteúdo.
 
-* Para a terceira questão, vale notar que **o input deve ser separado por espaço a cada caractere**. Caso contrário, irá apresentar erro. Além disto, como a questão foi feita baseada somente na gramática dada, inserir algum caractere fora da gramática (*num*, *+*, *var*, etc) também resultará em erro! Então, **insira somente caracteres da grmática**! Os caracteres permitidos são:
+* Para a terceira questão, vale notar que **o input deve ser separado por espaço a cada caractere**. Caso contrário, irá apresentar erro. Além disto, como a questão foi feita baseada somente na gramática dada, inserir algum caractere fora da gramática (*num*, *+*, *var*, etc) também resultará em erro! Então **insira somente caracteres da gramática**! Os caracteres permitidos são:
 ~~~python
 non_terminals = ['S', 'B', 'P', 'E']
 
