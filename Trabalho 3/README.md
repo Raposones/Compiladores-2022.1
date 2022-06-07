@@ -13,6 +13,7 @@ O trabalho é fazer um código baseado nos seguintes requisitos:
 <br>
 
 A linguagem **A** tem as seguintes características:
+<br>
 ![A](prints/a_lang.png)
 
 <br><br>
