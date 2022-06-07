@@ -48,14 +48,17 @@ erro! :(
 ### Prints
 
 Código com todos os possíveis erros
+<br>
 ![all errors](prints/all_errors.png)
 
 <br>
 
 Código com variáveis não usadas, mas com nenhum outro erro
+<br>
 ![non-used success](prints/non_used_success.png)
 
 <br>
 
 Código sem nenhum erro ou problema
+<br>
 ![success](prints/success.png)
