@@ -10,6 +10,8 @@
 O trabalho é fazer um código baseado nos seguintes requisitos:
 ![intro](prints/trab_intro.png)
 
+<br>
+
 A linguagem **A** tem as seguintes características:
 ![A](prints/a_lang.png)
 
