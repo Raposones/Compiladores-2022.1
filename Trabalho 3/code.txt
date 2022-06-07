@@ -1,0 +1,25 @@
+
+int f ( int a , int b ) {
+	return a + b ;
+}
+
+int f1 ( int g ) {
+	int aux = g * 2 ; 
+	return aux ;
+} 
+
+
+string return_txt ( ) {
+	return "txt" ; 
+}
+
+int main ( ) {
+	int a = 1 ;
+	int b ;
+	int n = 10 ;
+	int c = f ( a , b ) + n ;
+	if ( a == 1 ) {
+		c = a + b ;
+	}
+	return c ; 
+}
